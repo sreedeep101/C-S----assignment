@@ -29,3 +29,13 @@ int main(){
     return 0;
 }
     
+
+//OUTPUT :
+/* Enter elements into the first array:
+   1 2 3
+   Enter elements into the Second array:
+   5 6 7 8
+
+   The merged array is :
+   [1] [2] [3] [5] [6] [7] [8]
+*/
