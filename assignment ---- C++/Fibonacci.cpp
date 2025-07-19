@@ -18,12 +18,12 @@ void Fibonacci(int a){
         if(fib[i] > a){
             break; //used to terminate printing the fibinoci after the number entered 
         }
-        cout<< "[" << fib[i] << "] " << endl;
+        cout<< "[" << fib[i] << "] ";
     }
 }
 int main(){
     int num;
-    cout << "enter the number to get factorial" << endl;
+    cout << "enter the number to get fibonnaci number up to that" << endl;
     cin >> num;
     Fibonacci(num);
 }
