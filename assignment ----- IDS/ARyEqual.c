@@ -20,3 +20,9 @@ int main(){
    }
    return 0;
 }
+
+/*OUTPUT :-
+     arrays are  "NOT EQUAL"
+     
+*/ 
+
