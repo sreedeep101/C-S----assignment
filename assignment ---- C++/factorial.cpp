@@ -16,3 +16,9 @@ int main(){
     cin >> num;
     cout << num << "! = " << factorial(num) << endl;
 }
+
+/* OUTPUT :-
+    enter the number to get factorial
+    3
+    3! = 6
+*/    
