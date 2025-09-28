@@ -1,3 +1,4 @@
+## IDS lab questions to do
 
 <pre>
 1. write a program to find the minimum of a set of 10 numbers
@@ -25,4 +26,12 @@
 23. implement bubble sort by writing a program
 24. write a program for sorting all the students name in descending and ascending order 
 25. implement selection sort
+26. Implement insertion sort
+27. Implement merge sort
+28. Implement quick sort
+29. Write a code for implementing linked list
+30. Write a code for create a LinkedIn list and insert node at beginning ,end and at specific position
+31. Write a code for create a LinkedIn list and delete node from beginning ,end and from specific position
+32. Write a program for creating a LinkedIn list and reverse it
+33. Write a program for merging two linked list
 </pre>
