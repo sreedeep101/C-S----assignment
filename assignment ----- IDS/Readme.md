@@ -30,8 +30,20 @@
 27. Implement merge sort
 28. Implement quick sort
 29. Write a code for implementing linked list
-30. Write a code for create a LinkedIn list and insert node at beginning ,end and at specific position
-31. Write a code for create a LinkedIn list and delete node from beginning ,end and from specific position
-32. Write a program for creating a LinkedIn list and reverse it
-33. Write a program for merging two linked list
+30. Write a code for create a LinkedIn list and insert node at beginning ,end and at specific position       |
+31. Write a code for create a LinkedIn list and delete node from beginning ,end and from specific position   |  done as 
+32. Write a program for creating a LinkedIn list and reverse it                                              |  assignment
+33. Write a program for merging two linked list                                                              |
+34. impliment circular linkdlist
+35. write a program for insert element at an empty circular list, at the beginning, at the end, between nodes of a circular list
+36. write a program to delete elements from begging, middile, end of a circular list
+37. impliment doubly linked list.
+38. impliment stack
+39. program to impliment push and pop operation using list.
+40. write a program reverse a string using stack.
+41. write a program to find the factorial using stack. 
+42. write a program to convert any infix expression to posfix then evaluate it.
+43. write a program to impliment push and pop operation using array.
+44. write a program for implimenting all the operation of a queue
 </pre>
+
