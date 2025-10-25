@@ -37,12 +37,11 @@
 34. write a program for insert element at an empty circular list, at the beginning, at the end, between nodes of a circular list
 35. write a program to delete elements from begging, middile, end of a circular list
 36. impliment doubly linked list.
-37. impliment stack
-38. program to impliment push and pop operation using list.
-49. write a program reverse a string using stack.
-40. write a program to find the factorial using stack. 
-41. write a program to convert any infix expression to posfix then evaluate it.
-42. write a program to impliment push and pop operation using array.
-43. write a program for implimenting all the operation of a queue
+37. impliment stack and push and pop operation using array.
+38. write a program reverse a string using stack.
+39. write a program to find the factorial using stack. 
+40. write a program to convert any infix expression to posfix then evaluate it.
+41. write a program to impliment push and pop operation using array.
+42. write a program for implimenting all the operation of a queue
 </pre>
 
