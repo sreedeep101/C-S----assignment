@@ -41,7 +41,6 @@
 38. write a program reverse a string using stack.
 39. write a program to find the factorial using stack. 
 40. write a program to convert any infix expression to posfix then evaluate it.
-41. write a program to impliment push and pop operation using array.
-42. write a program for implimenting all the operation of a queue
+41. write a program for implimenting all the operation of a queue
 </pre>
 
