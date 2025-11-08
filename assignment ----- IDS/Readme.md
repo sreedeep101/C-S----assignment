@@ -9,25 +9,25 @@
 4. write a program to find average of N numbers
          [answer <a href="./Avg.c">@Avg.c</a> ]
 5. write a program to find great point and credit point occurred for all the 28 student 
-         [answer <a href="">@</a> ]
+         [answer <a href="./Marksheet.c">@Marksheet.c</a> ]
 6. write a program to read two array of integers and check both are equal or not
-         [answer <a href="">@</a> ]
+         [answer <a href="./ARyEqual.c">@arrayequal.c</a> ]
 7. write a program to traverse throw n elements in an array and print each
-        [answer <a href="">@</a> ]
+        [answer <a href="./Travers.c">@Travers.c</a> ]
 8. write a program to add an element to the array at the beginning end and the middle position
-         [answer <a href="">@</a> ]
+         [answer <a href="./Insertion.c">@Insertion.c</a> ]
 9. write a program to delete an element from the array at the beginning end and arbitrary position
-         [answer <a href="">@</a> ]
+         [answer <a href="./delete.c">@delete.c</a> ]
 10. write a program to merge two arrays
-         [answer <a href="">@</a> ]
+         [answer <a href="./Merge.c">@merge.c</a> ]
 11. write a program to create a matrix with m×n size with integer values and print all elements in the matrix and corresponding address 
-         [answer <a href="">@</a> ]
+         [answer <a href="./2-D_Array_Problems/Readwrite.c">@readwrite.c</a> ]
 12. write a program to add two matrix
-         [answer <a href="">@</a> ]
+         [answer <a href="./2-D_Array_Problems/addMatrix.c">@add</a> ]
 13. write a program to subtract two matrix 
-         [answer <a href="">@</a> ]
+         [answer <a href="./2-D_Array_Problems/substrateMatrix.c">@substrateMatrix.c</a> ]
 14. program to multiply two matrix 
-         [answer <a href="">@</a> ]
+         [answer <a href="./2-D_Array_Problems/multiplyMatrix.c">@multiplyMatrix.c</a> ]
 15. program to print mark of students in sem one and sem two
          [answer <a href="">@</a> ]
 16. write a program to read a paragraph and count the number of capital letters, small letters,numbers and special character
