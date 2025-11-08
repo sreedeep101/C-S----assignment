@@ -42,5 +42,6 @@
 39. write a program to find the factorial using stack. 
 40. write a program to convert any infix expression to posfix then evaluate it.
 41. write a program for implimenting all the operation of a queue
+42. write a program for implimenting tree traversal.
 </pre>
 
