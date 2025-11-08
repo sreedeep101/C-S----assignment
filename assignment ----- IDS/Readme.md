@@ -7,7 +7,7 @@
 3. write a program to print highest and lowest element from n number of elements |  as first question
   
 4. write a program to find average of N numbers
-         [answer <a href="">@</a> ]
+         [answer <a href="./Avg.c">@Avg.c</a> ]
 5. write a program to find great point and credit point occurred for all the 28 student 
          [answer <a href="">@</a> ]
 6. write a program to read two array of integers and check both are equal or not
